@@ -1,0 +1,122 @@
+#link-1{top: -225px; left: -40px; }
+#link-1:hover{ 
+    background-image:url(../logos/Discord\ icon.jpeg);
+    top: 20px; left: 20px; 
+    z-index: 10; 
+
+    border-radius: none;
+}
+
+
+#link-2{top: 158px; left: 119px; }
+#link-2:hover{
+
+    background-image:url(../logos/blogger.jpeg);
+    top: 178px; left: 139px; 
+    z-index: 10; 
+    
+    border-radius: none;
+}
+
+#link-3{top: 28px; left: 549px; }
+#link-3:hover{
+    background-image:url(../logos/Pinterest\ free\ vector\ icons\ designed\ by\ Freepik.jpeg);
+    top: 45px; left: 575px; 
+    z-index: 10; 
+
+    border-radius: none;
+}
+
+#link-4{top: 260px; left: 912px; }
+#link-4:hover{
+    background-image:url(../logos/github.png) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    top: 270px; left: 890px; 
+    z-index: 10; 
+
+    border-radius: none;
+}
+
+#link-5{top: 167px; left: 1355px; }
+#link-5:hover{background-image:url(../logos/youtube.jpeg);
+    top: 180px; left: 1320px; 
+
+}
+
+#link-6{top: 410px; left: 420px; }
+#link-6:hover{
+    background-image:url(../logos/twitter-asther=tic.jpeg);
+    top: 420px; left: 480px; 
+
+    
+}
+
+#link-7{top: 775px; left: 106px; height: 171px; border-radius: 162.5px  162.5px 0px  0px;background-position: top;justify-content:last baseline; }
+#link-7:hover{
+    background-image:url(../logos/spotify.jpeg);
+    top: 620px; left: 150px; 
+    height: 325px;
+    border-radius: 162.5px ;
+    justify-content: center;
+    align-items: center;
+}
+
+#link-8{top: 582px; left: 1417px; }
+#link-8:hover{
+    background-image:url(../logos/reddit.jpeg);
+    top: 549px; left: 1390px; 
+}
+
+#link-9{top: 620px; left: 999px; }
+#link-9:hover{
+    background-image:url(../logos/Monkey.jpeg);
+    top: 622px; left: 1010px; 
+}
+
+#link-10{top: -132px; left: 1042px; }
+#link-10:hover{
+    background-image:url(../logos/w3school.png);
+    top: 20px; left: 999px; 
+}
+
+#link-11{top: 410px; left: -228px; }
+#link-11:hover{background-image:url(../logos/msteam.png);
+    top: 399px; left: -100px; 
+
+}    
+
+#link-12{top: -120px; left: 1728px; width: 190px; border-radius: 162.5px 0px  0px 162.5px;background-position: left;justify-content: right;}
+#link-12:hover{background-image:url(../logos/Linkedin\ Clipart\ Vector\,\ Linkedin\ Icon\ Logo\,\ Linkedin\ Icons\,\ Logo\ Icons\,\ Linkedin\ Logo\ PNG\ Image\ For\ Free\ Download.jpeg);
+    top: 10px; left: 1584px; 
+    width: 325px; border-radius: 162.5px ;
+    justify-content: center;
+    align-items: center;
+}
+
+#link-13{top: 330px; left: 1752px;  width: 162.5px; border-radius: 162.5px 0px  0px 162.5px;background-position: left; justify-content: right;}
+#link-13:hover{background-image:url(../logos/typeclub.jpeg);
+
+    top: 299px; left: 1570px; 
+    width: 325px; border-radius: 162.5px ;
+}
+
+#link-14{top: 796px; left: 539px;height: 151px; width: 300px; border-radius: 153.5px  153.5px 0px  0px;background-position: top;justify-content:last baseline; }
+#link-14:hover{background-image:url(../logos/Instagram.png);
+    top: 620px; left: 570px; 
+    width: 325px;
+    height: 325px;
+    border-radius: 162.5px;
+}
+
+#link-15{
+    background-image:url(../logos/Sketch\ -\ Jan2.jpeg) ;
+    justify-content: end;
+    top: 784px; left: 1752px; width: 162.5px;height: 162.4px; 
+    border-radius: 162.5px 0px  0px 0px; 
+}
+#link-15:hover{background-image:url('../logos/Discord\ icon.jpeg');
+    top: 600px; left: 1580px; 
+    width: 325px; border-radius: 162.5px ;
+    height: 324px;
+}
